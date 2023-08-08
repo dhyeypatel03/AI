@@ -1,0 +1,37 @@
+{
+    "DL1CAC7637": {
+        "name": "John Doe",
+        "address": "123 Main Street, City",
+        "phone": "1234567890"
+    },
+    "": {
+        "name": "Jane Smith",
+        "address": "456 Elm Avenue, Town",
+        "phone": "9876543210"
+    },
+    "KR75JXGP": {
+        "name": "Michael Johnson",
+        "address": "789 Oak Road, Village",
+        "phone": "4567891230"
+    },
+    "FB692NF": {
+        "name": "Emily Williams",
+        "address": "567 Maple Lane, Suburb",
+        "phone": "7891234560"
+    },
+    "AYT739H": {
+        "name": "David Anderson",
+        "address": "321 Pine Street, County",
+        "phone": "6547890123"
+    },
+    "CNE844Y": {
+        "name": "Sophia Martinez",
+        "address": "654 Birch Avenue, Township",
+        "phone": "9870123456"
+    },
+    "AYS288": {
+        "name": "Oliver Wilson",
+        "address": "987 Cedar Lane, Hamlet",
+        "phone": "3214567890"
+    }
+}
